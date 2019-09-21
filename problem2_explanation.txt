@@ -1,0 +1,17 @@
+Phase 1:
+	Surface level this solution is sub-optimal because it only allows one car in the intersection at a time coming from any direction. In the scope of the analogy, this would mean 
+	that two cars going straight int he opposite directions could not go at the same time. In a normal intersection concurrency is seen when two cars go straight, or even further, 
+	all four cars can make rights at the same time. In the language of syncornization primatives, this solution turns the entire intersection into a critical section that runs 
+	atomically, made up of only a single lock. Thus preventing any cars from entering the intersection at the same time even if they will not crash.
+
+Phase 2. Because the first exposure I had to syncronization was the dining philosophers, I will equate this problem to that origional analogy. Here there are 4 philosophers, one 
+	for each car next in line coming from each direction, and each of the 4 quadrants is a fork! In order to turn (aka eat), the car has to pick up between one and 3 forks (	
+	quadrants of the intersection) depending on the turn that it is going to make. Viewing the problem as a modified dining philosophers now helps when analyzing deadlock. If each 
+	driver pokes into the intersection, takes up the first quadrant they can, and waits while trying to get the next quadrant there will be deadlock! This is exactly the scinario 
+	where each philosopher takes the fork on their right and then reaches for the left without putting the right fork down. This, in both cases is an example of deadlock caused by 
+	a hold and wait condition.
+
+
+
+	Issues:
+	We were having problem implementing fairness for a while. Straight and right turns took priority over left turns. This is probably because left turns require more quadrants in the intersection, making it harder for left turns to happen. We fixed this by making all of the cars sleep for a second after they were finished turning. This increases the chances that a left turn will be executed. Also, we used a linked list for each of the queues for each direction. In the included file called 'part2output.txt' we included the result of running our intersection for a couple of minutes. Here you will see that only non-conflicting turns are executed at the same time. This shows that the simulation is indeed working as expected.

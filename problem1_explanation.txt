@@ -1,0 +1,62 @@
+For part one of this project, we used a lot of different semaphores all with specific purposes to ensure that deadlock cannot occur. First, let's run a sample test.
+
+For this test, we will be using:
+	-4 workers
+	-10 pirates
+	-10 ninjas
+	-an average costume time of:
+		-4 minutes for the pirates
+		-4 minutes for the ninjas
+
+	-an average arrival time of:
+		-15 minutes for the pirates
+		-30 minutes for the ninjas
+
+How to run this test case:
+	-go to the directory and run 'make'
+	type in './part1 4 20 40 2 1 5 10'
+
+
+
+How it works:
+Our semaphores that we have are:
+	-q
+	-x
+	-p
+	-n
+	-b
+	-s
+	-c
+	-printer
+
+
+This program uses semaphores in order to provide mutual exclusion to critical sections as well as block out the opposite kind of thread from entering the store at the same time. Our semaphore 'b' is
+used to increment various counters and protect a few critical sections. The other semaphores have specific purposes, but this one is the general semaphore that is used in multiple places. 'p'and 'n'
+are used by pirates and ninjas (respectively) to enter the waiting room and exit the waiting room. 'q' and 'x' semaphores to prevent deadlock when a multiple threads try to access p or n (respectively)
+to in multiple situations. 'p' and 'n' both start as open, and the opposite kind of the first one to arrive is closed. 's' is used in order to only allow the amount of threads corresponding to the
+amount of workers into the store. It is initialized to the number of teams. Finally, 'c' is used inside of the store in order to protect counters inside of the store, such as the served counter.
+
+In this example, we have 10 pirates and 10 ninjas. Pirates begin to arrive after 15 minutes, and ninjas start to arrive after 30 minutes. This shows that the program is able to correctly detect when
+there aren't any of the other kind, so it continously takes customers from the same kind, and quickly changes when the other kind is thrown into the mix. Our threshold is 4; this means that the door
+that allows each kind in closes after accepting 4 customers, serves them, and takes another four of that kind unless the other kind is also waiting. In that case, it switches off the two kinds in
+batches of 4 until done with all customers. The output is in the included output.txt.
+
+
+
+
+
+
+Why it's efficient:
+
+This program is efficient because utilizing all of the workers as they are free minimizes the amount of time that they waste idling. Also, using a batching system ensures that none of the threads
+starve. This means that all of the threads have a fair chance of getting to enter the store. Also, the threads have a chance at returning to the store as well.
+
+
+
+Things to take note of:
+
+When calculating the times that each thread was being costumed, as well as how long each worker was idle or busy, we use whole numbers. When calculating the distribution for random costume times, we
+simply add the z value to the user inputted average time. The z value can generate negative numbers, so if a negative number is added to an input of one, the result is a decimal less than one. We
+take the absolute value of the result, so a negative result isn't something to worry about. But if the value is 0.8, as an example, this will result in a service time for the thread and a busy time
+for the worker of zero. Because of this, we would recommend staying away from the number one for testing. Higher numbers will make the execution time a bit longer, but it ensures that
+the data is accurate. Also, when the customers return, they also have to wait for their arrival time. This also increases the idle time of the workers.

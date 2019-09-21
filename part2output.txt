@@ -1,0 +1,138 @@
+Car #6 is making a straight turn from the South East
+Car #5 is making a right turn from the North West
+Car #5 is leaving the intersection!
+
+Car #6 is leaving the intersection!
+
+Car #4 is making a left turn from the South West
+Car #4 is leaving the intersection!
+
+Car #3 is making a right turn from the South West
+Car #7 is making a right turn from the South East
+Car #7 is leaving the intersection!
+
+Car #8 is making a right turn from the South East
+Car #3 is leaving the intersection!
+
+Car #9 is making a left turn from the North East
+Car #8 is leaving the intersection!
+
+Car #9 is leaving the intersection!
+
+Car #13 is making a straight turn from the North East
+Car #3 is making a right turn from the South West
+Car #7 is making a right turn from the South East
+Car #3 is leaving the intersection!
+
+Car #13 is leaving the intersection!
+
+Car #15 is making a left turn from the North East
+Car #7 is leaving the intersection!
+
+Car #1 is making a right turn from the South East
+Car #15 is leaving the intersection!
+
+Car #3 is making a right turn from the South West
+Car #13 is making a straight turn from the North East
+Car #1 is leaving the intersection!
+
+Car #3 is leaving the intersection!
+
+Car #3 is making a right turn from the South West
+Car #13 is leaving the intersection!
+
+Car #8 is making a right turn from the South East
+Car #13 is making a straight turn from the North East
+Car #8 is leaving the intersection!
+
+Car #3 is leaving the intersection!
+
+Car #3 is making a right turn from the South West
+Car #13 is leaving the intersection!
+
+Car #1 is making a right turn from the South East
+Car #13 is making a straight turn from the North East
+Car #3 is leaving the intersection!
+
+Car #1 is leaving the intersection!
+
+Car #3 is making a right turn from the South West
+Car #13 is leaving the intersection!
+
+Car #1 is making a right turn from the South East
+Car #13 is making a straight turn from the North East
+Car #3 is leaving the intersection!
+
+Car #1 is leaving the intersection!
+
+Car #10 is making a straight turn from the South West
+Car #13 is leaving the intersection!
+
+Car #10 is leaving the intersection!
+
+Car #12 is making a left turn from the South West
+Car #12 is leaving the intersection!
+
+Car #2 is making a left turn from the North West
+Car #2 is leaving the intersection!
+
+Car #11 is making a right turn from the North West
+Car #1 is making a right turn from the South East
+Car #11 is leaving the intersection!
+
+Car #18 is making a straight turn from the North West
+Car #1 is leaving the intersection!
+
+Car #18 is leaving the intersection!
+
+Car #13 is making a straight turn from the North East
+Car #1 is making a right turn from the South East
+Car #13 is leaving the intersection!
+
+Car #1 is leaving the intersection!
+
+Car #15 is making a left turn from the North East
+Car #15 is leaving the intersection!
+
+Car #13 is making a straight turn from the North East
+Car #1 is making a right turn from the South East
+Car #13 is leaving the intersection!
+
+Car #15 is making a left turn from the North East
+Car #1 is leaving the intersection!
+
+Car #7 is making a right turn from the South East
+Car #15 is leaving the intersection!
+
+Car #7 is leaving the intersection!
+
+Car #13 is making a straight turn from the North East
+Car #3 is making a right turn from the South West
+Car #1 is making a right turn from the South East
+Car #13 is leaving the intersection!
+
+Car #3 is leaving the intersection!
+
+Car #1 is leaving the intersection!
+
+Car #14 is making a right turn from the South West
+Car #7 is making a right turn from the South East
+Car #13 is making a straight turn from the North East
+Car #14 is leaving the intersection!
+
+Car #7 is leaving the intersection!
+
+Car #3 is making a right turn from the South West
+Car #8 is making a right turn from the South East
+Car #13 is leaving the intersection!
+
+Car #13 is making a straight turn from the North East
+Car #3 is leaving the intersection!
+
+Car #8 is leaving the intersection!
+
+Car #8 is making a right turn from the South East
+Car #13 is leaving the intersection!
+
+Car #15 is making a left turn from the North East
+Car #8 is leaving the intersection!

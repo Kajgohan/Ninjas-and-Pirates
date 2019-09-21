@@ -1,0 +1,143 @@
+A pirate #14 has arrived!
+A pirate #14 has entered the waiting room!
+A pirate #15 has arrived!
+A pirate #15 has entered the waiting room!
+A pirate #12 has arrived!
+A pirate #12 has entered the waiting room!
+A pirate #17 has arrived!
+A pirate #17 has entered the waiting room!
+Pirate #17 is the last pirate to be served!
+A pirate #11 has arrived!
+A pirate #16 has arrived!
+A pirate #18 has arrived!
+A pirate #19 has arrived!
+Pirate 14 has been served and is leaving
+A pirate #10 has arrived!
+A pirate #13 has arrived!
+Pirate 15 has been served and is leaving
+Pirate 17 has been served and is leaving
+Pirate 12 has been served and is leaving
+A pirate #11 has entered the waiting room!
+A pirate #16 has entered the waiting room!
+A pirate #18 has entered the waiting room!
+A pirate #19 has entered the waiting room!
+Pirate #19 is the last pirate to be served!
+Pirate 19 has been served and is leaving
+Pirate 11 has been served and is leaving
+Pirate 16 has been served and is leaving
+Pirate 18 has been served and is leaving
+A pirate #10 has entered the waiting room!
+A pirate #13 has entered the waiting room!
+Pirate 13 has been served and is leaving
+Pirate 10 has been served and is leaving
+A ninja #6 has arrived!
+A ninja #6 has entered the waiting room!
+A ninja #7 has arrived!
+A ninja #7 has entered the waiting room!
+A ninja #4 has arrived!
+A ninja #4 has entered the waiting room!
+A ninja #9 has arrived!
+A ninja #9 has entered the waiting room!
+Ninja #9 is the last ninja to be served in this batch!
+A ninja #3 has arrived!
+A ninja #2 has arrived!
+A ninja #0 has arrived!
+A ninja #5 has arrived!
+A ninja #1 has arrived!
+Ninja #6 has been served and is leaving
+A ninja #8 has arrived!
+Ninja #7 has been served and is leaving
+Ninja #4 has been served and is leaving
+Ninja #9 has been served and is leaving
+A ninja #3 has entered the waiting room!
+A ninja #2 has entered the waiting room!
+A ninja #0 has entered the waiting room!
+A ninja #5 has entered the waiting room!
+Ninja #5 is the last ninja to be served in this batch!
+Ninja #5 has been served and is leaving
+Ninja #3 has been served and is leaving
+Ninja #0 has been served and is leaving
+Ninja #2 has been served and is leaving
+A ninja #1 has entered the waiting room!
+A ninja #8 has entered the waiting room!
+Ninja #8 has been served and is leaving
+Ninja #1 has been served and is leaving
+A ninja #9 has arrived!
+A ninja #9 has entered the waiting room!
+Ninja 9 came back
+Ninja #9 has been served and is leaving
+A ninja #3 has arrived!
+A ninja #3 has entered the waiting room!
+Ninja 3 came back
+Ninja #3 has been served and is leaving
+A ninja #9 has arrived!
+A ninja #9 has entered the waiting room!
+Ninja 9 came back
+Ninja #9 has been served and is leaving
+Pirate 14 Spent 0.000000 minutes waiting before being served, spent 2 gold on his costume and spent a total of 2.000000 minutes on the trip
+
+Pirate 15 Spent 0.000000 minutes waiting before being served, spent 3 gold on his costume and spent a total of 3.000000 minutes on the trip
+
+Pirate 17 Spent 0.000000 minutes waiting before being served, spent 3 gold on his costume and spent a total of 3.000000 minutes on the trip
+
+Pirate 12 Spent 0.000000 minutes waiting before being served, spent 4 gold on his costume and spent a total of 4.000000 minutes on the trip
+
+Pirate 19 Spent 3.000000 minutes waiting before being served, spent 1 gold on his costume and spent a total of 4.000000 minutes on the trip
+
+Pirate 11 Spent 3.000000 minutes waiting before being served, spent 4 gold on his costume and spent a total of 7.000000 minutes on the trip
+
+Pirate 16 Spent 3.000000 minutes waiting before being served, spent 4 gold on his costume and spent a total of 7.000000 minutes on the trip
+
+Pirate 18 Spent 3.000000 minutes waiting before being served, spent 4 gold on his costume and spent a total of 7.000000 minutes on the trip
+
+Pirate 13 Spent 6.000000 minutes waiting before being served, spent 4 gold on his costume and spent a total of 10.000000 minutes on the trip
+
+Pirate 10 Spent 6.000000 minutes waiting before being served, spent 4 gold on his costume and spent a total of 10.000000 minutes on the trip
+
+
+Ninja 6 Spent 0.000000 minutes before being served, spent 2 gold on his costume and spent a total of 2.000000 minutes on the trip
+
+
+Ninja 7 Spent 0.000000 minutes before being served, spent 3 gold on his costume and spent a total of 3.000000 minutes on the trip
+
+
+Ninja 4 Spent 0.000000 minutes before being served, spent 4 gold on his costume and spent a total of 4.000000 minutes on the trip
+
+
+Ninja 9 Spent 0.000000 minutes before being served, spent 6 gold on his costume and spent a total of 6.000000 minutes on the trip
+
+
+Ninja 5 Spent 5.000000 minutes before being served, spent 2 gold on his costume and spent a total of 7.000000 minutes on the trip
+
+
+Ninja 3 Spent 6.000000 minutes before being served, spent 4 gold on his costume and spent a total of 10.000000 minutes on the trip
+
+
+Ninja 0 Spent 6.000000 minutes before being served, spent 4 gold on his costume and spent a total of 10.000000 minutes on the trip
+
+
+Ninja 2 Spent 6.000000 minutes before being served, spent 5 gold on his costume and spent a total of 11.000000 minutes on the trip
+
+
+Ninja 8 Spent 9.000000 minutes before being served, spent 4 gold on his costume and spent a total of 13.000000 minutes on the trip
+
+
+Ninja 1 Spent 10.000000 minutes before being served, spent 4 gold on his costume and spent a total of 14.000000 minutes on the trip
+
+
+Ninja 9 Spent 0.000000 minutes before being served, spent 4 gold on his costume and spent a total of 4.000000 minutes on the trip
+
+
+Ninja 3 Spent 0.000000 minutes before being served, spent 4 gold on his costume and spent a total of 4.000000 minutes on the trip
+
+Worker Data:
+|Worker ID|Idle Time|Busy Time|
+-------------------------------
+|        1|    72.00|    16.00|
+|        2|    66.00|    22.00|
+|        3|    65.00|    23.00|
+|        4|    65.00|    23.00|
+
+Store Day Data:
+|Total gold earned|Gross Profit|Average Que Time|Avg Gold per Visit
+|               79|          59|        2.869565|          3.000000
